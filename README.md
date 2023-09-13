@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Bienvenido a Arbell - Tu Tienda de Cosméticos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+¡Bienvenido a Arbell, tu tienda de cosméticos en línea! Este proyecto fue desarrollado como parte del proyecto final del curso de React de CoderHouse. Aquí encontrarás una amplia selección de productos de belleza y cuidado de la piel para realzar tu belleza y mimar tu piel.
 
-## Available Scripts
+## Características destacadas
 
-In the project directory, you can run:
+- **Amplia variedad de productos**: Explora nuestra extensa gama de productos de cosmética, que incluyen maquillaje, productos para el cuidado de la piel, fragancias y más.
 
-### `npm start`
+- **Garantía de calidad**: En Arbell, nos enorgullece ofrecer productos de las marcas más prestigiosas y de alta calidad en la industria de la belleza.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Seguridad en tus compras**: Hemos implementado medidas de seguridad sólidas para proteger tus datos personales y financieros durante tu experiencia de compra en línea.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Envío rápido y confiable**: Ofrecemos opciones de envío rápido para que puedas disfrutar de tus productos de belleza en poco tiempo.
 
-### `npm test`
+- **Atención al cliente excepcional**: Nuestro equipo de atención al cliente está siempre listo para ayudarte con cualquier pregunta o inquietud que puedas tener.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Cómo comenzar
 
-### `npm run build`
+1. **Explora nuestro catálogo**: Navega a través de nuestras categorías de productos y descubre los productos de belleza que te encantarán.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. **Agrega productos a tu carrito**: Cuando encuentres un producto que te guste, agrégalo a tu carrito de compras.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. **Realiza el pago**: Procede al proceso de pago seguro y elige entre nuestras opciones de envío.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. **¡Listo para brillar!**: Una vez que tu pedido se haya procesado y enviado, recibirás tus productos en la dirección proporcionada.
 
-### `npm run eject`
+## Contribuciones
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+¡Valoramos las contribuciones de la comunidad! Si deseas colaborar en el desarrollo de Arbell, no dudes en abrir una solicitud de extracción o informar sobre problemas.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contacto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Si tienes alguna pregunta o necesitas asistencia, no dudes en ponerte en contacto con nuestro equipo de atención al cliente en arbell@gmail.com o a través de nuestras redes sociales.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Gracias por visitar Arbell y por apoyar nuestro proyecto final del curso de React de CoderHouse. ¡Esperamos que disfrutes de tu experiencia de compra en nuestra tienda de cosméticos en línea!
