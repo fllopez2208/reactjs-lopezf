@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactjs-lopezf/static/css/main.5d13969a.css",
-    "main.js": "/reactjs-lopezf/static/js/main.b84084aa.js",
+    "main.js": "/reactjs-lopezf/static/js/main.b6b7a771.js",
     "static/js/787.b978bd17.chunk.js": "/reactjs-lopezf/static/js/787.b978bd17.chunk.js",
     "static/media/3.png": "/reactjs-lopezf/static/media/3.cb9977a7dc4b44675f9c.png",
     "static/media/6.jpeg": "/reactjs-lopezf/static/media/6.5156fe97f6f365ba2f3e.jpeg",
@@ -10,11 +10,11 @@
     "static/media/loading.gif": "/reactjs-lopezf/static/media/loading.d9e2b249f328381d913b.gif",
     "index.html": "/reactjs-lopezf/index.html",
     "main.5d13969a.css.map": "/reactjs-lopezf/static/css/main.5d13969a.css.map",
-    "main.b84084aa.js.map": "/reactjs-lopezf/static/js/main.b84084aa.js.map",
+    "main.b6b7a771.js.map": "/reactjs-lopezf/static/js/main.b6b7a771.js.map",
     "787.b978bd17.chunk.js.map": "/reactjs-lopezf/static/js/787.b978bd17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d13969a.css",
-    "static/js/main.b84084aa.js"
+    "static/js/main.b6b7a771.js"
   ]
 }
