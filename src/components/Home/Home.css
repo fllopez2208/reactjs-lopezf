@@ -1,0 +1,19 @@
+
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 50%; 
+  margin: auto; 
+}
+
+.carousel-slide img {
+  max-width: 100%; 
+  height: auto; 
+}
